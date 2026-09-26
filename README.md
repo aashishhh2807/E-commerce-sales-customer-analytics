@@ -39,6 +39,25 @@ The project focuses on converting transactional e-commerce data into useful busi
 
 ---
 
+## Key Business Queries
+
+The project answers practical business questions such as:
+
+- Which customers have the highest total spending?
+- Which products generate the highest revenue?
+- Which categories have the highest sales?
+- Which sellers generate the highest revenue?
+- Which products have the highest average ratings?
+- Which months have the highest sales?
+- Which customers purchase products from multiple categories?
+- Which customers have purchased from every available category?
+- Which products have never been ordered?
+- Which customers have placed orders but never submitted reviews?
+- What is the month-over-month change in sales?
+- What are the top 3 products by total revenue?
+
+---
+
 ## SQL Concepts Used
 
 - `SELECT`
@@ -65,25 +84,39 @@ The project focuses on converting transactional e-commerce data into useful busi
 
 ---
 
-## File Structure
+## Tools Used
 
-```text
-ecommerce-sales-customer-analytics
-├── database
-│   ├── schema.sql
-│   └── sample_data.sql
-│
-├── queries
-│   ├── customer_analytics.sql
-│   ├── product_analytics.sql
-│   ├── sales_analytics.sql
-│   ├── ranking_analysis.sql
-│   ├── purchase_trends.sql
-│   ├── seller_review_analysis.sql
-│   └── advanced_business_queries.sql
-│
-├── screenshots
-│   ├── database_schema.png
-│   └── query_results.png
-│
-└── README.md
+- MySQL
+- SQL
+- MySQL Workbench
+
+---
+
+## Applications
+
+- E-Commerce Data Analytics
+- Business Intelligence
+- Customer Behavior Analysis
+- Sales Performance Analysis
+- Database Management
+
+---
+
+## Learning Outcomes
+
+- Relational database design
+- SQL-based data analysis
+- Advanced query development
+- Business-oriented data analytics
+- Analytical SQL and window functions
+- Translating real-world business requirements into SQL queries
+
+---
+
+## Author
+
+**Aashish M**
+
+Electronics and Communication Engineering
+
+Interested in **Software Development, Backend Development, Database Systems, and Data Analytics**.
